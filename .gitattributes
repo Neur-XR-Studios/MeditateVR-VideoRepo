@@ -7,3 +7,4 @@ V3.mp4 filter=lfs diff=lfs merge=lfs -text
 V4.mp4 filter=lfs diff=lfs merge=lfs -text
 V7.mp4 filter=lfs diff=lfs merge=lfs -text
 V8.mp4 filter=lfs diff=lfs merge=lfs -text
+GV1.mp4 filter=lfs diff=lfs merge=lfs -text
